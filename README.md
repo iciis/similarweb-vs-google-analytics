@@ -44,23 +44,37 @@ For a well-rounded digital strategy, many professionals find it most effective t
 ### **Similarweb Key Features**
 
 #### 1. **Market Research**
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1sI_ft7ddpuPzLsC-rHiRiykgqt5gNa_J"  alt="Similarweb Market Research">
+</a>
     
 Provides comprehensive data on industry trends, consumer behavior, and traffic sources. Helps businesses analyze current market dynamics, assess digital performance, and identify 
 gaps and opportunities to grow their online reach and stay ahead of competitors in their digital ecosystem.
     
 #### 2. **Competitor Analysis**
 
-
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1cc8Cxlnudu5LVeAHvQh5XYgcvuwXDeN2"  alt="Similarweb Competitor Analysis">
+</a>
     
 Delivers insights into competitors’ web traffic, engagement metrics, audience interests, and referral sources. Enables brands to benchmark performance, uncover competitor 
 strategies, and fine-tune their digital marketing approach to improve visibility and conversion potential.
     
 #### 3. **Benchmarking**
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1L6dDVR_GIP0DM_m-NV85Lep4-e5QngQJ"  alt=" Similarweb Benchmarking">
+</a>
     
 Allows users to compare their site’s performance against industry standards and top competitors. It helps identify strengths, weaknesses, and opportunities across traffic channels, 
 engagement rates, and audience behaviors, supporting informed decision-making in digital marketing campaigns.
     
 #### 4. **Marketing Strategy**
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1cc8Cxlnudu5LVeAHvQh5XYgcvuwXDeN2"  alt="Similarweb Marketing Strategy">
+</a>
     
 Assists in building data-backed digital marketing plans by analyzing web traffic trends, keyword performance, and referral sources. Helps identify high-performing channels and 
 content, allowing brands to optimize their marketing strategies for better ROI and customer acquisition.
