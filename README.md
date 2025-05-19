@@ -81,8 +81,8 @@ content, allowing brands to optimize their marketing strategies for better ROI a
     
 #### 5. **Keyword Research**
 
-<a href="https://afftrend.com/semrush">
-  <img src="https://drive.google.com/uc?export=view&id=16BxvzLkP8ZMrwNSNRzum1aeu8wlD3pgr"  alt="SEMrush Keyword Research Tool">
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1z4iJydmetYayfO3sIWq7UYwpFxZCyxqa"  alt="Similarweb Keyword Research Tools">
 </a>
     
 Provides keyword-level data, including volume, competition, and click-through rate. It helps marketers discover new keyword opportunities, track performance across search engines, 
