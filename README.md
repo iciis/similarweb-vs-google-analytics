@@ -44,13 +44,13 @@ For a well-rounded digital strategy, many professionals find it most effective t
 ### **Similarweb Key Features**
 
 #### 1. **Market Research**
-
-
     
 Provides comprehensive data on industry trends, consumer behavior, and traffic sources. Helps businesses analyze current market dynamics, assess digital performance, and identify 
 gaps and opportunities to grow their online reach and stay ahead of competitors in their digital ecosystem.
     
 #### 2. **Competitor Analysis**
+
+
     
 Delivers insights into competitors’ web traffic, engagement metrics, audience interests, and referral sources. Enables brands to benchmark performance, uncover competitor 
 strategies, and fine-tune their digital marketing approach to improve visibility and conversion potential.
@@ -66,11 +66,17 @@ Assists in building data-backed digital marketing plans by analyzing web traffic
 content, allowing brands to optimize their marketing strategies for better ROI and customer acquisition.
     
 #### 5. **Keyword Research**
+
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=16BxvzLkP8ZMrwNSNRzum1aeu8wlD3pgr"  alt="SEMrush Keyword Research Tool">
+</a>
     
 Provides keyword-level data, including volume, competition, and click-through rate. It helps marketers discover new keyword opportunities, track performance across search engines, 
 and shape effective SEO strategies based on real user search behavior and trends.
     
 #### 6. **Rank Tracker**
+
+
     
 Tracks keyword positions across global and local search engines. This tool helps monitor SEO progress, competitor rankings, and search visibility trends over time, offering data to 
 refine content and keyword strategies for improved organic traffic.
