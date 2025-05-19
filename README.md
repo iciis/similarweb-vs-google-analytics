@@ -73,7 +73,7 @@ engagement rates, and audience behaviors, supporting informed decision-making in
 #### 4. **Marketing Strategy**
 
 <a href="https://afftrend.com/similarweb">
-  <img src="https://drive.google.com/uc?export=view&id=1cc8Cxlnudu5LVeAHvQh5XYgcvuwXDeN2"  alt="Similarweb Marketing Strategy">
+  <img src="https://drive.google.com/uc?export=view&id=1P2HJic0bHG1q_l2o48i9Oic6cun0MQXb"  alt="Similarweb Marketing Strategy">
 </a>
     
 Assists in building data-backed digital marketing plans by analyzing web traffic trends, keyword performance, and referral sources. Helps identify high-performing channels and 
@@ -89,8 +89,6 @@ Provides keyword-level data, including volume, competition, and click-through ra
 and shape effective SEO strategies based on real user search behavior and trends.
     
 #### 6. **Rank Tracker**
-
-
     
 Tracks keyword positions across global and local search engines. This tool helps monitor SEO progress, competitor rankings, and search visibility trends over time, offering data to 
 refine content and keyword strategies for improved organic traffic.
